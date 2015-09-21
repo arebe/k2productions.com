@@ -1,0 +1,13 @@
+# Footer navigation links
+
+- title: About
+  url: /about/
+
+- title: Contact
+  url: /contact/
+
+- title: Research
+  url: /research/
+
+- title: Affiliates
+  url: /affiliates/

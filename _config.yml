@@ -1,0 +1,36 @@
+# Site wide configuration
+
+title: K2 Productions
+description: Digital media design
+logo: /images/logo.png # 120x120 px default image used for Twitter summary card
+teaser: /images/teaser.png # 400x250 px default teaser image used in image archive grid
+locale:
+#url: http://k2productions.com # **** uncomment for production ****
+
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name: Karen Kirsch Page
+  email: karenkpage@gmail.com
+  twitter: pagecrew
+  google:
+    ad-client: 
+    ad-slot: 
+  bio: 
+  avatar: /images/bio.png # 160x160 px image for author byline
+disqus-shortname:
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

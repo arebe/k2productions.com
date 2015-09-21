@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Ed Tech
+  url: /edtech/
+  excerpt: "Education technology consulting and development."
+  image:
+
+- title: Multimedia
+  url: /multimedia/
+  excerpt: "Capturing moments on modern media."
+  image:
+
+- title: Talks and Writing
+  url: /talks/
+  excerpt: "An archive of my talks and writing on eduction."
+  image:
