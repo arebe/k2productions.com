@@ -1,6 +1,6 @@
 ---
 layout: article
-title: ""
+title: "Affiliates"
 date: 
 modified:
 excerpt:
